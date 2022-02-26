@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/hassibmoddasser/GhorbaniMorteza?color=2D9CDB&style=for-the-badge)](https://github.com/GhorbaniMorteza)
+[![Visits Badge](https://badges.pufler.dev/visits/GhorbaniMorteza/GhorbaniMorteza?color=2D9CDB&style=for-the-badge)](https://github.com/GhorbaniMorteza)
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/M_Ghorbani_?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/M_Ghorbani_)
 # Hi there 👋, I am Mortaza Ghorbani 
 
@@ -21,6 +21,19 @@ I am a **Web Developer**  having more than two years of extensive experience in 
  <img src="https://github-readme-stats.vercel.app/api?username=GhorbaniMorteza&show_icons=true&theme=dracula" alt="GitHub Stats" />
 
 </p><br />
+<p align="center">Connect with me on these excellent platforms; I would love to talk more</p>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/mortaza-ghorbani-bab761143">
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="30" />
+</a> &ensp;
+<a href="https://twitter.com/M_Ghorbani_">
+  <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="30" />
+</a> &ensp;
+<a href="https://www.instagram.com/mrtz.gh">
+  <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30" />
+</a> &ensp;
+</p><br />
 
 ## Tech Stack
  
@@ -35,19 +48,7 @@ I work with many different technologies and languages, but my favorites are **PH
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MYSQL" alt="MYSQL" width="56" /> &emsp;
 
 
-<p align="center">Connect with me on these excellent platforms; I would love to talk more</p>
 
-<p align="center">
- <a href="https://www.linkedin.com/in/mortaza-ghorbani-bab761143">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="30" />
-</a> &ensp;
-<a href="https://twitter.com/M_Ghorbani_">
-  <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="30" />
-</a> &ensp;
-<a href="https://www.instagram.com/mrtz.gh">
-  <img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30" />
-</a> &ensp;
-</p><br />
 
 ## Most used Technologies 
  <p align="center">
