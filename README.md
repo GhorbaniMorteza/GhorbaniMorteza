@@ -17,13 +17,12 @@ I am a **Web Developer**  having more than two years of extensive experience in 
 
 ## GitHub Stats
 
-<p align="center">
+
  <img src="https://github-readme-stats.vercel.app/api?username=GhorbaniMorteza&show_icons=true&theme=dracula" alt="GitHub Stats" />
 
-</p><br />
-<p align="center">Connect with me on these excellent platforms; I would love to talk more</p>
+<p >Connect with me on these excellent platforms; I would love to talk more</p>
 
-<p align="center">
+<p >
  <a href="https://www.linkedin.com/in/mortaza-ghorbani-bab761143">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="30" />
 </a> &ensp;
@@ -39,7 +38,7 @@ I am a **Web Developer**  having more than two years of extensive experience in 
  
 I work with many different technologies and languages, but my favorites are **PHP**, **Laravel**, and **JavaScript**.
 
-<p align="center">
+<p >
  <img  src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo vector" width="96" /> &emsp;
  <img class="larger" src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel logo vector" width="96" /> &emsp;
  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JS" alt="Tailwind CSS Logo" width="56" /> &emsp;
@@ -51,7 +50,8 @@ I work with many different technologies and languages, but my favorites are **PH
 
 
 ## Most used Technologies 
- <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghorbanimorteza&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ <p >
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhorbaniMorteza)](https://github.com/GhorbaniMorteza/github-readme-stats)
+
 </p><br />  
 
