@@ -9,7 +9,7 @@ I am a **Web Developer**  having more than two years of extensive experience in 
 - 🔭 I'm currently working on my portfolio website
 - 🌱 I'm currently learning **Laravel ** and **JS**
 - 👯 I'm looking to collaborate on open source Projects
-- 💬 Ask me about **Laravel**,**Codeigniter**,**PHP (Pure)** and **MySQL**, I'm happy to help
+- 💬 Ask me about **Laravel**,**Codeigniter**,**PHP (Pure)** and **MySQL**. I'm happy to help
 - 📫 Reach me through [Twitter DMs](https://twitter.com/M_Ghorbani_) or my **Email Address**
 
 
@@ -39,19 +39,19 @@ I am a **Web Developer**  having more than two years of extensive experience in 
  
 I work with many different technologies and languages, but my favorites are **PHP**, **Laravel**, and **JavaScript**.
 
-
-<img  src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo vector" width="96" /> &emsp;
-<img class="larger" src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel logo vector" width="96" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JS" alt="Tailwind CSS Logo" width="56" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git" width="56" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap" width="56" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MYSQL" alt="MYSQL" width="56" /> &emsp;
-
+<p align="center">
+ <img  src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo vector" width="96" /> &emsp;
+ <img class="larger" src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel logo vector" width="96" /> &emsp;
+ <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JS" alt="Tailwind CSS Logo" width="56" /> &emsp;
+ <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git" width="56" /> &emsp;
+ <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap" width="56" /> &emsp;
+ <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MYSQL" alt="MYSQL" width="56" /> &emsp;
+</p><br />
 
 
 
 ## Most used Technologies 
  <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhorbaniMorteza&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghorbanimorteza&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </p><br />  
 
