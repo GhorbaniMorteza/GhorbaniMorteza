@@ -33,7 +33,10 @@ I work with many different technologies and languages, but my favorites are **PH
 
 <img  src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo vector" width="96" /> &emsp;
 <img class="larger" src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel logo vector" width="96" /> &emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Pythonn" alt="Tailwind CSS Logo" width="56" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JS" alt="Tailwind CSS Logo" width="56" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git" width="56" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap" width="56" /> &emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MYSQL" alt="MYSQL" width="56" /> &emsp;
 
 
 ## Most used Technologies 
