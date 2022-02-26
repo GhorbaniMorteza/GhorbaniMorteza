@@ -50,6 +50,8 @@ I work with many different technologies and languages, but my favorites are **PH
 
 
 ## Most used Technologies 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhorbaniMorteza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  <p >
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhorbaniMorteza)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhorbaniMorteza)](https://github.com/GhorbaniMorteza/github-readme-stats)
