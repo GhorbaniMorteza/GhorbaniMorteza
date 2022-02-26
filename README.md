@@ -7,7 +7,7 @@ I am a **Web Developer**  having more than two years of extensive experience in 
 
 - 🏢  I'm a freelance Web Developer 
 - 🔭 I'm currently working on my portfolio website
-- 🌱 I'm currently learning **Laravel ** and **JS**
+- 🌱 I'm currently learning **Laravel** and **JS**
 - 👯 I'm looking to collaborate on open source Projects
 - 💬 Ask me about **Laravel** ,**Codeigniter**,**PHP (Pure)** and **MySQL**. I'm happy to help
 - 📫 Reach me through [Twitter DMs](https://twitter.com/M_Ghorbani_) or my **Email Address**
