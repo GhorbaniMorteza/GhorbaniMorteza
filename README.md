@@ -11,12 +11,16 @@ I am a **Web Developer**  having more than two years of extensive experience in 
 - 👯 I'm looking to collaborate on open source Projects
 - 💬 Ask me about **Laravel**,**Codeigniter**,**PHP (Pure)** and **MySQL**, I'm happy to help
 - 📫 Reach me through [Twitter DMs](https://twitter.com/M_Ghorbani_) or my **Email Address**
-- ⚡ I write code without drinking coffee
-
-
 
 
 <br>
+
+## GitHub Stats
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=GhorbaniMorteza&show_icons=true&theme=dracula" alt="GitHub Stats" />
+
+</p><br />
 
 ## Tech Stack
  
@@ -29,12 +33,6 @@ I work with many different technologies and languages, but my favorites are **PH
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git" width="56" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap" width="56" /> &emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MYSQL" alt="MYSQL" width="56" /> &emsp;
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=GhorbaniMorteza&show_icons=true&theme=dracula" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GhorbaniMorteza&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Stats" />
-
 
 
 <p align="center">Connect with me on these excellent platforms; I would love to talk more</p>
