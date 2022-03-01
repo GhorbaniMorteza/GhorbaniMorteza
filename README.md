@@ -6,8 +6,7 @@
             alt="Typing SVG"
         />
     </a>
-</p>
-[![Visits Badge](https://badges.pufler.dev/visits/GhorbaniMorteza/GhorbaniMorteza?color=2D9CDB&style=for-the-badge)](https://github.com/GhorbaniMorteza)
+</p>[![Visits Badge](https://badges.pufler.dev/visits/GhorbaniMorteza/GhorbaniMorteza?color=2D9CDB&style=for-the-badge)](https://github.com/GhorbaniMorteza)
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/M_Ghorbani_?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/M_Ghorbani_)
 # Hi there 👋, I am Mortaza Ghorbani 
 
