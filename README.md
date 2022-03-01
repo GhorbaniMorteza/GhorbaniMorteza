@@ -1,3 +1,12 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=40&color=FF0000&width=1000&lines=Welcome+To+My+Github"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 [![Visits Badge](https://badges.pufler.dev/visits/GhorbaniMorteza/GhorbaniMorteza?color=2D9CDB&style=for-the-badge)](https://github.com/GhorbaniMorteza)
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/M_Ghorbani_?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/M_Ghorbani_)
 # Hi there 👋, I am Mortaza Ghorbani 
