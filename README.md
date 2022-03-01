@@ -33,13 +33,16 @@ I am a **Web Developer**  having more than two years of extensive experience in 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GhorbaniMorteza&color=9400D3&line=79ff97&point=151515&bg_color=000080&area=true&hide_border=false)
 
 ## Profile Summary
+
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhorbaniMorteza&theme=github_dark" alt="yasinnorozzadeh" align = "center"/></p>
+
 
 ## Profile Summary   
 <p align="center">
          
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=GhorbaniMorteza&bg_color=000080&column=7"/>
- </p>  
+ </p> 
+ 
 ## Contact Me
 <p >Connect with me on these excellent platforms; I would love to talk more</p>
 
