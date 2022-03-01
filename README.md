@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/GhorbaniMorteza/GhorbaniMorteza?color=2D9CDB&style=for-the-badge)](https://github.com/GhorbaniMorteza)
+[![Twitter Follow Badge](https://img.shields.io/twitter/follow/M_Ghorbani_?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/M_Ghorbani_)
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <p align="center">
     <a href="https://git.io/typing-svg">
@@ -6,8 +8,8 @@
             alt="Typing SVG"
         />
     </a>
-</p>[![Visits Badge](https://badges.pufler.dev/visits/GhorbaniMorteza/GhorbaniMorteza?color=2D9CDB&style=for-the-badge)](https://github.com/GhorbaniMorteza)
-[![Twitter Follow Badge](https://img.shields.io/twitter/follow/M_Ghorbani_?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/M_Ghorbani_)
+</p>
+
 # Hi there 👋, I am Mortaza Ghorbani 
 
 I am a **Web Developer**  having more than two years of extensive experience in all phases of small-scale to enterprise-scale projects.
