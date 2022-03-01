@@ -29,7 +29,7 @@ I am a **Web Developer**  having more than two years of extensive experience in 
 
 
  <img src="https://github-readme-stats.vercel.app/api?username=GhorbaniMorteza&show_icons=true&theme=dracula" alt="GitHub Stats" />
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GhorbaniMorteza&color=9400D3&line=79ff97&point=151515&bg_color=000080&area=true&hide_border=false)
 <p >Connect with me on these excellent platforms; I would love to talk more</p>
 
 <p >
